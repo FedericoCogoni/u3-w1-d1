@@ -1,6 +1,6 @@
 function NavbarTest() {
   return (
-    <div style={{display: "flex", justifyContent: "center"}}>
+    <div>
       
     <nav style={{ backgroundColor: "#f0f0f0", padding: "10px 10px" }}>
       
