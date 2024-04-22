@@ -1,0 +1,13 @@
+.card {
+  width: 150px;
+  height: 50px;
+}
+.card-image {
+  width: 150px;
+}
+.card-body {
+  background-color: white;
+}
+.card-button {
+  margin-bottom: 1rem;
+}
